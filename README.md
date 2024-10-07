@@ -1,15 +1,22 @@
 # Description
 
-###
-
-
-
-
 ## Progress bar
 
 ### A variation of the progress bar. We take <progress /> and create a multi-element structure. This structure is easy to use and style.
 
 ## Stack
+* HTML5
+* CSS3
+* JavaScript ES6
+
+#
+# Описание
+
+## Progress bar
+
+### Вариант Progress bar. Берем элемент <progress /> и создаем многоэлементную конструкцию. Эту конструкцию легко использовать и стилизовать.
+
+## Технологии
 * HTML5
 * CSS3
 * JavaScript ES6
